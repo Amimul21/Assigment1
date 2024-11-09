@@ -1,0 +1,51 @@
+img {
+    width: 1x; 
+}
+h1 { 
+    border: 2px solid rgb(49, 43, 43);
+    background-color: rgb(227, 237, 237);
+    margin:50px; 
+    padding: 15px;
+    width: 50%;
+}
+h2 { border: 2px solid rgb(49, 43, 43);
+    background-color: rgb(227, 237, 237);
+    margin:50px; 
+    padding: 15px;
+    width: 50%;}
+
+
+
+    h3{border: 2px solid rgb(191, 241, 6);
+        background-color: rgb(175, 236, 4);
+        margin:250px; 
+        padding:15px;
+        width: 40%;}
+
+p{
+  border: 2px solid rgb(49, 43, 43);
+    background-color: rgb(227, 237, 237);
+    margin:50px; 
+    padding:15px;
+    width:70%;
+
+}
+
+.different-image {
+
+    width: 850px;
+    border: 4px solid rgb(0, 255, 0);
+    margin: 50px;
+    padding: 1px;
+    
+   
+
+}
+
+.different-image:hover{
+    width: 850px;
+    border: 8px solid rgb(234, 0, 255);
+    border-radius: 100%;
+    box-shadow: 4px 6px 3px darkgrey;
+    
+
